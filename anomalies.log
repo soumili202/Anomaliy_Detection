@@ -1,0 +1,14 @@
+2024-10-16 13:01:29,125 - Anomaly detected by actual at time 13 with value 32.16552916232408 and score 0
+2024-10-16 13:01:32,871 - Anomaly detected by actual at time 62 with value 17.1061657086697 and score 0
+2024-10-16 13:01:32,871 - Anomaly detected by storm at time 62 with value 17.1061657086697 and score 4
+2024-10-16 13:01:45,114 - Anomaly detected by actual at time 211 with value 27.006051031686173 and score 0
+2024-10-16 13:01:45,114 - Anomaly detected by zscore at time 211 with value 27.006051031686173 and score 3.232882914203485
+2024-10-16 13:01:45,114 - Anomaly detected by sma at time 211 with value 27.006051031686173 and score 27.00421566507369
+2024-10-16 13:01:45,114 - Anomaly detected by storm at time 211 with value 27.006051031686173 and score 1
+2024-10-16 13:01:52,252 - Anomaly detected by actual at time 292 with value 7.716833616958731 and score 0
+2024-10-16 13:01:59,874 - Anomaly detected by actual at time 370 with value 3.6612181327680364 and score 0
+2024-10-16 13:02:00,208 - Anomaly detected by actual at time 373 with value 14.699453667761645 and score 0
+2024-10-16 13:02:03,259 - Anomaly detected by actual at time 400 with value 25.05525405911736 and score 0
+2024-10-16 13:02:03,259 - Anomaly detected by zscore at time 400 with value 25.05525405911736 and score 3.0805543104301196
+2024-10-16 13:02:03,259 - Anomaly detected by sma at time 400 with value 25.05525405911736 and score 24.46119831525796
+2024-10-16 13:02:03,260 - Anomaly detected by storm at time 400 with value 25.05525405911736 and score 1
